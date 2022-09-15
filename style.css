@@ -6,3 +6,9 @@ body{
     align-items: center;
     justify-content: center;
 }
+#container{
+    display: grid;
+    margin-top: 10px;
+    width: 960px;
+    height: 960px;
+}
